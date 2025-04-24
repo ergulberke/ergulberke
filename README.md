@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 <div align="center">
 ## Profile Views
-![ziyaretci](https://profile-counter.glitch.me/ergulberke/count.svg)
+<img src="https://profile-counter.glitch.me/ergulberke/count.svg?"/>
 </div>
