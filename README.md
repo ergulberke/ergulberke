@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-## Profile Views
-<img src="https://profile-counter.glitch.me/ergulberke/count.svg?"/>
+  <h2 align="center"> Profile Views</h2>
+  <img src="https://profile-counter.glitch.me/ergulberke/count.svg?"/>
 </div>
