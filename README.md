@@ -20,3 +20,5 @@ Here are some ideas to get you started:
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/ergulberke/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
+![ziyaretci](https://profile-counter.glitch.me/ergulberke/count.svg)
+
